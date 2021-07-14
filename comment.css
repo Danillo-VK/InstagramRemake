@@ -1,0 +1,30 @@
+body{
+	background-color: #2d2d30!important;
+
+}
+.groter{
+  font-size: 30px!important;
+  color: white!important;
+  margin-left: 30px;
+
+}
+.message-text {
+ position:fixed;
+ bottom:0px;
+ width:100%;
+ margin:0px;
+ margin-top:-40px;
+
+}
+
+.inputveld{
+	margin-top:-40px;
+	font-size: 30px;
+	height: 80px;
+
+}
+.buttonpost{
+	margin-top:-40px;
+	width: 90px;
+	height: 80px;
+}
